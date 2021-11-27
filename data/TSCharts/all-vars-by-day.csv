@@ -1,4 +1,4 @@
-﻿date,trip_weekavg,CASE_COUNT_7DAY_AVG,tempmax_weekavg
+﻿date,trip_weekavg,covidcount_weekavg,tempmax_weekavg
 1-Jan-19,,,
 2-Jan-19,,,
 3-Jan-19,,,
